@@ -25,4 +25,3 @@ Sameer Hussain
       </div>
     </div>
   </details-menu>
-</details>
